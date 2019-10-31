@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="AbstracFileMapper">
-    <output-path>$PROJECT_DIR$/out/artifacts/AbstracFileMapper</output-path>
-    <root id="archive" name="AbstracFileMapper.jar">
-      <element id="module-output" name="AbstractFileMap" />
-    </root>
-  </artifact>
-</component>
